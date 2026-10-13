@@ -1,9 +1,3 @@
-# Trabalho_LFA
-Trabalho de LFA
+# Simulador de Autômato Finito Determinístico Simples
 
-
-
-
-
-
-teste chave ssh
+Simulador que implementa um AFD (autômato finito determinístico) e suas operações básicas (operações de conjunto, minimização, multiplicação), bem como a leitura e escrita desses autômatos via arquivos txt e JFLAP.
